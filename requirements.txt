@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+pytorch
+fastapi
+uvicorn
+streamlit
+pickle-mixin
+scipy

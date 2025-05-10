@@ -1,0 +1,6 @@
+[submodule "girls-approach"]
+	path = girls-approach
+	url = git@github.com:planwise-org/girls-approach.git
+[submodule "recommendation-system"]
+	path = recommendation-system
+	url = git@github.com:planwise-org/recommendation-system.git
